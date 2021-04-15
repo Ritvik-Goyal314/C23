@@ -1,2 +1,1 @@
-# C23
-Toppling Box
+# Box Class
